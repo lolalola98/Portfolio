@@ -5,5 +5,5 @@ Practicing and exploring the portfolio
 From concept to result  
 Idea to product
 
-### Follow more of my works in my account ig
+### To have more follow me on my my account ig
 If you want to collaborate with me here are my contacts
