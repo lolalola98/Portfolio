@@ -6,4 +6,4 @@ From concept to result
 Idea to product
 
 ### Follow more of my works in my account ig
-If you want to collaborate with me here are my contact
+If you want to collaborate with me here are my contacts
