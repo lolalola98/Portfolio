@@ -1,0 +1,16 @@
+html {
+    background-color: rgb(197, 73, 86);
+    font-family: 'IBM Plex Serif', serif;
+    text-align: center;
+}
+
+h1 {
+    max-width: 700px;
+    margin: 0 auto;
+    font-size: 80px;
+    font-weight: 500;
+    font-style: italic;
+    color: color(srgb 0.2882 0.0392 0.0899);
+    letter-spacing: -5px;
+    line-height: 5;
+}
