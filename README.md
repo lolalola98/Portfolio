@@ -3,8 +3,8 @@ I'm a graphic designer and photographer based in Milan, specializiing in brand i
 I was born in Udine, Italy, where my interest in design began during high school, studying Graphic design and Communication. I am currently expanding my skill through a Bachelor's degree in Communication, Culture and Business at Scuola Politecnica di Design.
 
 ### Skills
-Photography
-Brand design
+Photography  
+Brand design 
 Social media visuals
 Video editing
 Logo design
